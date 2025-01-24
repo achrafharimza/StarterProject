@@ -1,9 +1,8 @@
-package com.caproject.config;
+package com.starterProject.config;
 
 
-import com.caproject.dto.UserDto;
-import com.caproject.entities.UserEntity;
-import com.caproject.services.UserService;
+import com.starterProject.entities.UserEntity;
+import com.starterProject.services.UserService;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;

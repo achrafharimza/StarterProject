@@ -1,4 +1,4 @@
-package com.caproject.dto.services;
+package com.starterProject.dto.services;
 import org.springframework.data.domain.Page;
 
 import java.util.Collection;

@@ -1,4 +1,4 @@
-package com.caproject.config;
+package com.starterProject.config;
 
 public class SecurityConstants {
     public static final long EXPIRATION_TIME = 864000000; // miliseco = 10 Days

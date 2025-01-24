@@ -1,7 +1,7 @@
-package com.caproject.services;
+package com.starterProject.services;
 
 
-import com.caproject.dto.UserDto;
+import com.starterProject.dto.UserDto;
 import org.springframework.security.core.userdetails.UserDetailsService;
 
 

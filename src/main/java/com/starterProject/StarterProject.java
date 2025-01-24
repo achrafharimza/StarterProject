@@ -1,4 +1,4 @@
-package com.caproject;
+package com.starterProject;
 
 import org.modelmapper.ModelMapper;
 import org.springframework.boot.SpringApplication;
@@ -9,10 +9,10 @@ import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 
 @SpringBootApplication()
 @EnableJpaRepositories
-public class CaprojectApplication {
+public class StarterProject {
 
     public static void main(String[] args) {
-        SpringApplication.run(CaprojectApplication.class, args);
+        SpringApplication.run(StarterProject.class, args);
     }
 
     @Bean

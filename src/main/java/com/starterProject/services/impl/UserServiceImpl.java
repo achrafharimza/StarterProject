@@ -1,11 +1,11 @@
-package com.caproject.services.impl;
+package com.starterProject.services.impl;
 
 
-import com.caproject.dto.UserDto;
-import com.caproject.dto.services.IMapClassWithDto;
-import com.caproject.entities.UserEntity;
-import com.caproject.services.UserService;
-import com.caproject.repositories.userRepository;
+import com.starterProject.dto.UserDto;
+import com.starterProject.dto.services.IMapClassWithDto;
+import com.starterProject.entities.UserEntity;
+import com.starterProject.services.UserService;
+import com.starterProject.repositories.userRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;

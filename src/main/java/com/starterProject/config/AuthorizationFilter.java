@@ -1,4 +1,4 @@
-package com.caproject.config;
+package com.starterProject.config;
 
 import io.jsonwebtoken.Jwts;
 import org.springframework.security.authentication.AuthenticationManager;

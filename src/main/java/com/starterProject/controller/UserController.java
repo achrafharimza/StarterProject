@@ -1,8 +1,8 @@
-package com.caproject.controller;
+package com.starterProject.controller;
 
 
-import com.caproject.dto.UserDto;
-import com.caproject.services.UserService;
+import com.starterProject.dto.UserDto;
+import com.starterProject.services.UserService;
 
 import org.springframework.beans.factory.annotation.Autowired;
 
@@ -10,7 +10,6 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-import java.security.Principal;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
